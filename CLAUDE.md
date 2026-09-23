@@ -20,7 +20,7 @@ A Python and JavaScript web application (Single Page Application) designed to pa
   - **Temperature** (°C)
 - **Interactive Mapping:** Built-in map visualization rendering the GPS track of the recorded activity.
 - **Performance Widgets:** Comprehensive breakdowns displaying **Average, Maximum, and Minimum** values for:
-  * Cadence, Heart Rate, Speed, and Temperature.
+  - Cadence, Heart Rate, Speed, and Temperature.
   - **Elevation** metrics including Total Elevation Gain, Max, and Min.
   - **Summary Data** covering Total Time and Overall Distance.
 - **Automated Insights:** An overall activity summary highlighting performance trends and key metric analysis to give users immediate, actionable insights into their training data.
